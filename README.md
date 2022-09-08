@@ -53,3 +53,6 @@ We have included an example of generating adversarial examples for several model
 # Future Development
 
 The toolkit is under continuous development. URET's default tooling is intended to support a wide range of common machine learning scenarios, but we plan to expand the tooling based on new user needs and state-of-the-art research. Feedback, bug reports and contributions are very welcome!
+
+# Acknowledgement
+This research was developed with funding from the Defense Advanced Research Projects Agency (DARPA). The views, opinions and/or findings expressed are those of the author and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government.
