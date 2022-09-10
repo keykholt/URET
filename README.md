@@ -2,7 +2,7 @@
 
 This repository will contain the code for adversarial example generation tools described in:
 
-**A Generic Adversarial Generation Toolkit**
+**Universal Robustness Evaluation Toolkit (for Evasion)**
 
 *Kevin Eykholt, Taesung Lee, Doug Schales, Jiyong Jang, Ian Molloy, Masha Zorin*
 
